@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Manimaran-tech/My-Progress/tree/master/0004-median-of-two-sorted-arrays) |
 | [0069-sqrtx](https://github.com/Manimaran-tech/My-Progress/tree/master/0069-sqrtx) |
 ## Recursion
 |  |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Manimaran-tech/My-Progress/tree/master/0004-median-of-two-sorted-arrays) |
 | [0049-group-anagrams](https://github.com/Manimaran-tech/My-Progress/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Manimaran-tech/My-Progress/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/Manimaran-tech/My-Progress/tree/master/0136-single-number) |
@@ -60,4 +62,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Manimaran-tech/My-Progress/tree/master/0136-single-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Manimaran-tech/My-Progress/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
