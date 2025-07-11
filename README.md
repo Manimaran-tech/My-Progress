@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Manimaran-tech/My-Progress/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/Manimaran-tech/My-Progress/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Manimaran-tech/My-Progress/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Manimaran-tech/My-Progress/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Manimaran-tech/My-Progress/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0268-missing-number](https://github.com/Manimaran-tech/My-Progress/tree/master/0268-missing-number) |
 ## Binary Search
@@ -101,4 +102,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Manimaran-tech/My-Progress/tree/master/0074-search-a-2d-matrix) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Manimaran-tech/My-Progress/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Manimaran-tech/My-Progress/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
