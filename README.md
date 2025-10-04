@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Manimaran-tech/My-Progress/tree/master/0004-median-of-two-sorted-arrays) |
+| [0036-valid-sudoku](https://github.com/Manimaran-tech/My-Progress/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Manimaran-tech/My-Progress/tree/master/0049-group-anagrams) |
 | [0074-search-a-2d-matrix](https://github.com/Manimaran-tech/My-Progress/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Manimaran-tech/My-Progress/tree/master/0075-sort-colors) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Manimaran-tech/My-Progress/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Manimaran-tech/My-Progress/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/Manimaran-tech/My-Progress/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/Manimaran-tech/My-Progress/tree/master/0217-contains-duplicate) |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Manimaran-tech/My-Progress/tree/master/0036-valid-sudoku) |
 | [0074-search-a-2d-matrix](https://github.com/Manimaran-tech/My-Progress/tree/master/0074-search-a-2d-matrix) |
 ## Dynamic Programming
 |  |
