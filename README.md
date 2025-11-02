@@ -169,4 +169,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0175-combine-two-tables](https://github.com/Manimaran-tech/My-Progress/tree/master/0175-combine-two-tables) |
 | [0196-delete-duplicate-emails](https://github.com/Manimaran-tech/My-Progress/tree/master/0196-delete-duplicate-emails) |
+| [0197-rising-temperature](https://github.com/Manimaran-tech/My-Progress/tree/master/0197-rising-temperature) |
 <!---LeetCode Topics End-->
