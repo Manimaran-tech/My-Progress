@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Manimaran-tech/My-Progress/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Manimaran-tech/My-Progress/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Manimaran-tech/My-Progress/tree/master/0344-reverse-string) |
+| [0412-fizz-buzz](https://github.com/Manimaran-tech/My-Progress/tree/master/0412-fizz-buzz) |
 | [0812-rotate-string](https://github.com/Manimaran-tech/My-Progress/tree/master/0812-rotate-string) |
 ## Two Pointers
 |  |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Manimaran-tech/My-Progress/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/Manimaran-tech/My-Progress/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Manimaran-tech/My-Progress/tree/master/0268-missing-number) |
+| [0412-fizz-buzz](https://github.com/Manimaran-tech/My-Progress/tree/master/0412-fizz-buzz) |
 ## Binary Search
 |  |
 | ------- |
@@ -173,4 +175,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0175-combine-two-tables](https://github.com/Manimaran-tech/My-Progress/tree/master/0175-combine-two-tables) |
 | [0196-delete-duplicate-emails](https://github.com/Manimaran-tech/My-Progress/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/Manimaran-tech/My-Progress/tree/master/0197-rising-temperature) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/Manimaran-tech/My-Progress/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
