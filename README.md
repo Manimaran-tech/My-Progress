@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Manimaran-tech/My-Progress/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Manimaran-tech/My-Progress/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Manimaran-tech/My-Progress/tree/master/0268-missing-number) |
+| [0374-guess-number-higher-or-lower](https://github.com/Manimaran-tech/My-Progress/tree/master/0374-guess-number-higher-or-lower) |
 | [0792-binary-search](https://github.com/Manimaran-tech/My-Progress/tree/master/0792-binary-search) |
 ## Recursion
 |  |
@@ -184,4 +185,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0412-fizz-buzz](https://github.com/Manimaran-tech/My-Progress/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Manimaran-tech/My-Progress/tree/master/0415-add-strings) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/Manimaran-tech/My-Progress/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
