@@ -15,7 +15,5 @@ class Solution:
                 return mid
             elif res == -1:
                 high = mid - 1
-            elif res == 1:
+            else: 
                 low = mid + 1
-            else:
-                pass
