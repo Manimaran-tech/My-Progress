@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Manimaran-tech/My-Progress/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Manimaran-tech/My-Progress/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/Manimaran-tech/My-Progress/tree/master/0202-happy-number) |
+| [0258-add-digits](https://github.com/Manimaran-tech/My-Progress/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Manimaran-tech/My-Progress/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Manimaran-tech/My-Progress/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/Manimaran-tech/My-Progress/tree/master/0412-fizz-buzz) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Manimaran-tech/My-Progress/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Manimaran-tech/My-Progress/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Manimaran-tech/My-Progress/tree/master/0415-add-strings) |
 ## Interactive
@@ -196,4 +198,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/Manimaran-tech/My-Progress/tree/master/0383-ransom-note) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Manimaran-tech/My-Progress/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
