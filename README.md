@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Manimaran-tech/My-Progress/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Manimaran-tech/My-Progress/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/Manimaran-tech/My-Progress/tree/master/0217-contains-duplicate) |
+| [0260-single-number-iii](https://github.com/Manimaran-tech/My-Progress/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Manimaran-tech/My-Progress/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/Manimaran-tech/My-Progress/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Manimaran-tech/My-Progress/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Manimaran-tech/My-Progress/tree/master/0136-single-number) |
+| [0260-single-number-iii](https://github.com/Manimaran-tech/My-Progress/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Manimaran-tech/My-Progress/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
