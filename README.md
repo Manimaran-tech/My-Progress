@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Manimaran-tech/My-Progress/tree/master/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/Manimaran-tech/My-Progress/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Manimaran-tech/My-Progress/tree/master/0415-add-strings) |
+| [0459-repeated-substring-pattern](https://github.com/Manimaran-tech/My-Progress/tree/master/0459-repeated-substring-pattern) |
 | [0812-rotate-string](https://github.com/Manimaran-tech/My-Progress/tree/master/0812-rotate-string) |
 ## Two Pointers
 |  |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Manimaran-tech/My-Progress/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/Manimaran-tech/My-Progress/tree/master/0459-repeated-substring-pattern) |
 | [0812-rotate-string](https://github.com/Manimaran-tech/My-Progress/tree/master/0812-rotate-string) |
 ## Math
 |  |
