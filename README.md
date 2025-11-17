@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Manimaran-tech/My-Progress/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Manimaran-tech/My-Progress/tree/master/0415-add-strings) |
 | [0492-construct-the-rectangle](https://github.com/Manimaran-tech/My-Progress/tree/master/0492-construct-the-rectangle) |
+| [3995-gcd-of-odd-and-even-sums](https://github.com/Manimaran-tech/My-Progress/tree/master/3995-gcd-of-odd-and-even-sums) |
 ## Binary Search
 |  |
 | ------- |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Manimaran-tech/My-Progress/tree/master/0258-add-digits) |
+| [3995-gcd-of-odd-and-even-sums](https://github.com/Manimaran-tech/My-Progress/tree/master/3995-gcd-of-odd-and-even-sums) |
 ## Backtracking
 |  |
 | ------- |
