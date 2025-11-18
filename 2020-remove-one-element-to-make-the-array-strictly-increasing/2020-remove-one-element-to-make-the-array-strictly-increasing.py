@@ -8,8 +8,8 @@ class Solution:
                     return False
                 removed = True
 
-                # Try removing nums[i-1] OR nums[i]
+                
                 if i > 1 and nums[i] <= nums[i - 2]:
-                    nums[i] = nums[i - 1]  # Force skip current element
+                    nums[i] = nums[i - 1]  
 
         return True
