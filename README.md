@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Manimaran-tech/My-Progress/tree/master/0485-max-consecutive-ones) |
 | [0792-binary-search](https://github.com/Manimaran-tech/My-Progress/tree/master/0792-binary-search) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Manimaran-tech/My-Progress/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [2020-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/Manimaran-tech/My-Progress/tree/master/2020-remove-one-element-to-make-the-array-strictly-increasing) |
 ## Hash Table
 |  |
 | ------- |
