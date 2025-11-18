@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/Manimaran-tech/My-Progress/tree/master/0415-add-strings) |
 | [0459-repeated-substring-pattern](https://github.com/Manimaran-tech/My-Progress/tree/master/0459-repeated-substring-pattern) |
 | [0812-rotate-string](https://github.com/Manimaran-tech/My-Progress/tree/master/0812-rotate-string) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Manimaran-tech/My-Progress/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 ## Two Pointers
 |  |
 | ------- |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Manimaran-tech/My-Progress/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Manimaran-tech/My-Progress/tree/master/0485-max-consecutive-ones) |
 | [0792-binary-search](https://github.com/Manimaran-tech/My-Progress/tree/master/0792-binary-search) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Manimaran-tech/My-Progress/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 ## Hash Table
 |  |
 | ------- |
