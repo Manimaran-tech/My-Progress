@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Manimaran-tech/My-Progress/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Manimaran-tech/My-Progress/tree/master/0415-add-strings) |
 | [0492-construct-the-rectangle](https://github.com/Manimaran-tech/My-Progress/tree/master/0492-construct-the-rectangle) |
+| [0812-largest-triangle-area](https://github.com/Manimaran-tech/My-Progress/tree/master/0812-largest-triangle-area) |
 | [3536-maximum-product-of-two-digits](https://github.com/Manimaran-tech/My-Progress/tree/master/3536-maximum-product-of-two-digits) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/Manimaran-tech/My-Progress/tree/master/3995-gcd-of-odd-and-even-sums) |
 ## Binary Search
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Manimaran-tech/My-Progress/tree/master/0485-max-consecutive-ones) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Manimaran-tech/My-Progress/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Manimaran-tech/My-Progress/tree/master/0792-binary-search) |
+| [0812-largest-triangle-area](https://github.com/Manimaran-tech/My-Progress/tree/master/0812-largest-triangle-area) |
 | [0905-sort-array-by-parity](https://github.com/Manimaran-tech/My-Progress/tree/master/0905-sort-array-by-parity) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Manimaran-tech/My-Progress/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Manimaran-tech/My-Progress/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -254,4 +256,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Manimaran-tech/My-Progress/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Geometry
+|  |
+| ------- |
+| [0812-largest-triangle-area](https://github.com/Manimaran-tech/My-Progress/tree/master/0812-largest-triangle-area) |
 <!---LeetCode Topics End-->
