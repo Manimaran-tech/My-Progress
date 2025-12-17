@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Manimaran-tech/My-Progress/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Manimaran-tech/My-Progress/tree/master/0792-binary-search) |
 | [0905-sort-array-by-parity](https://github.com/Manimaran-tech/My-Progress/tree/master/0905-sort-array-by-parity) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Manimaran-tech/My-Progress/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Manimaran-tech/My-Progress/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2020-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/Manimaran-tech/My-Progress/tree/master/2020-remove-one-element-to-make-the-array-strictly-increasing) |
 ## Hash Table
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Manimaran-tech/My-Progress/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/Manimaran-tech/My-Progress/tree/master/0414-third-maximum-number) |
 | [0905-sort-array-by-parity](https://github.com/Manimaran-tech/My-Progress/tree/master/0905-sort-array-by-parity) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Manimaran-tech/My-Progress/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -241,4 +243,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Manimaran-tech/My-Progress/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Manimaran-tech/My-Progress/tree/master/0232-implement-queue-using-stacks) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Manimaran-tech/My-Progress/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
