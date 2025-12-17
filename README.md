@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Manimaran-tech/My-Progress/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/Manimaran-tech/My-Progress/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/Manimaran-tech/My-Progress/tree/master/0344-reverse-string) |
+| [0905-sort-array-by-parity](https://github.com/Manimaran-tech/My-Progress/tree/master/0905-sort-array-by-parity) |
 ## String Matching
 |  |
 | ------- |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Manimaran-tech/My-Progress/tree/master/0485-max-consecutive-ones) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Manimaran-tech/My-Progress/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Manimaran-tech/My-Progress/tree/master/0792-binary-search) |
+| [0905-sort-array-by-parity](https://github.com/Manimaran-tech/My-Progress/tree/master/0905-sort-array-by-parity) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Manimaran-tech/My-Progress/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2020-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/Manimaran-tech/My-Progress/tree/master/2020-remove-one-element-to-make-the-array-strictly-increasing) |
 ## Hash Table
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Manimaran-tech/My-Progress/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Manimaran-tech/My-Progress/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/Manimaran-tech/My-Progress/tree/master/0414-third-maximum-number) |
+| [0905-sort-array-by-parity](https://github.com/Manimaran-tech/My-Progress/tree/master/0905-sort-array-by-parity) |
 ## Bit Manipulation
 |  |
 | ------- |
