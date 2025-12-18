@@ -8,13 +8,11 @@ class Solution:
         n = len(s)
 
         while len(res) < n:
-            # increasing order
             for i in range(26):
                 if freq[i] > 0:
                     res.append(chr(i + ord('a')))
                     freq[i] -= 1
 
-            # decreasing order
             for i in range(25, -1, -1):
                 if freq[i] > 0:
                     res.append(chr(i + ord('a')))
