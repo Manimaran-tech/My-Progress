@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-largest-triangle-area](https://github.com/Manimaran-tech/My-Progress/tree/master/0812-largest-triangle-area) |
 | [0905-sort-array-by-parity](https://github.com/Manimaran-tech/My-Progress/tree/master/0905-sort-array-by-parity) |
 | [0942-di-string-match](https://github.com/Manimaran-tech/My-Progress/tree/master/0942-di-string-match) |
+| [1051-height-checker](https://github.com/Manimaran-tech/My-Progress/tree/master/1051-height-checker) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Manimaran-tech/My-Progress/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Manimaran-tech/My-Progress/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Manimaran-tech/My-Progress/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Manimaran-tech/My-Progress/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/Manimaran-tech/My-Progress/tree/master/0414-third-maximum-number) |
 | [0905-sort-array-by-parity](https://github.com/Manimaran-tech/My-Progress/tree/master/0905-sort-array-by-parity) |
+| [1051-height-checker](https://github.com/Manimaran-tech/My-Progress/tree/master/1051-height-checker) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Manimaran-tech/My-Progress/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Manimaran-tech/My-Progress/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/Manimaran-tech/My-Progress/tree/master/3536-maximum-product-of-two-digits) |
@@ -272,4 +274,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0942-di-string-match](https://github.com/Manimaran-tech/My-Progress/tree/master/0942-di-string-match) |
+## Counting Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/Manimaran-tech/My-Progress/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
