@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-rotate-string](https://github.com/Manimaran-tech/My-Progress/tree/master/0812-rotate-string) |
 | [0942-di-string-match](https://github.com/Manimaran-tech/My-Progress/tree/master/0942-di-string-match) |
 | [1370-increasing-decreasing-string](https://github.com/Manimaran-tech/My-Progress/tree/master/1370-increasing-decreasing-string) |
+| [1576-replace-all-s-to-avoid-consecutive-repeating-characters](https://github.com/Manimaran-tech/My-Progress/tree/master/1576-replace-all-s-to-avoid-consecutive-repeating-characters) |
 | [1768-merge-strings-alternately](https://github.com/Manimaran-tech/My-Progress/tree/master/1768-merge-strings-alternately) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Manimaran-tech/My-Progress/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1859-sorting-the-sentence](https://github.com/Manimaran-tech/My-Progress/tree/master/1859-sorting-the-sentence) |
