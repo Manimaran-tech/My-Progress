@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0459-repeated-substring-pattern](https://github.com/Manimaran-tech/My-Progress/tree/master/0459-repeated-substring-pattern) |
 | [0812-rotate-string](https://github.com/Manimaran-tech/My-Progress/tree/master/0812-rotate-string) |
 | [0942-di-string-match](https://github.com/Manimaran-tech/My-Progress/tree/master/0942-di-string-match) |
+| [1021-remove-outermost-parentheses](https://github.com/Manimaran-tech/My-Progress/tree/master/1021-remove-outermost-parentheses) |
 | [1370-increasing-decreasing-string](https://github.com/Manimaran-tech/My-Progress/tree/master/1370-increasing-decreasing-string) |
 | [1576-replace-all-s-to-avoid-consecutive-repeating-characters](https://github.com/Manimaran-tech/My-Progress/tree/master/1576-replace-all-s-to-avoid-consecutive-repeating-characters) |
 | [1768-merge-strings-alternately](https://github.com/Manimaran-tech/My-Progress/tree/master/1768-merge-strings-alternately) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/Manimaran-tech/My-Progress/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Manimaran-tech/My-Progress/tree/master/0232-implement-queue-using-stacks) |
 | [0682-baseball-game](https://github.com/Manimaran-tech/My-Progress/tree/master/0682-baseball-game) |
+| [1021-remove-outermost-parentheses](https://github.com/Manimaran-tech/My-Progress/tree/master/1021-remove-outermost-parentheses) |
 ## Design
 |  |
 | ------- |
