@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/Manimaran-tech/My-Progress/tree/master/0415-add-strings) |
 | [0492-construct-the-rectangle](https://github.com/Manimaran-tech/My-Progress/tree/master/0492-construct-the-rectangle) |
 | [0812-largest-triangle-area](https://github.com/Manimaran-tech/My-Progress/tree/master/0812-largest-triangle-area) |
+| [1323-maximum-69-number](https://github.com/Manimaran-tech/My-Progress/tree/master/1323-maximum-69-number) |
 | [3536-maximum-product-of-two-digits](https://github.com/Manimaran-tech/My-Progress/tree/master/3536-maximum-product-of-two-digits) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/Manimaran-tech/My-Progress/tree/master/3995-gcd-of-odd-and-even-sums) |
 ## Binary Search
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0942-di-string-match](https://github.com/Manimaran-tech/My-Progress/tree/master/0942-di-string-match) |
+| [1323-maximum-69-number](https://github.com/Manimaran-tech/My-Progress/tree/master/1323-maximum-69-number) |
 ## Counting Sort
 |  |
 | ------- |
