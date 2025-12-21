@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/Manimaran-tech/My-Progress/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/Manimaran-tech/My-Progress/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/Manimaran-tech/My-Progress/tree/master/0383-ransom-note) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Manimaran-tech/My-Progress/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/Manimaran-tech/My-Progress/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Manimaran-tech/My-Progress/tree/master/0415-add-strings) |
 | [0459-repeated-substring-pattern](https://github.com/Manimaran-tech/My-Progress/tree/master/0459-repeated-substring-pattern) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Manimaran-tech/My-Progress/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Manimaran-tech/My-Progress/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Manimaran-tech/My-Progress/tree/master/0268-missing-number) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Manimaran-tech/My-Progress/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/Manimaran-tech/My-Progress/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Manimaran-tech/My-Progress/tree/master/0415-add-strings) |
 | [0492-construct-the-rectangle](https://github.com/Manimaran-tech/My-Progress/tree/master/0492-construct-the-rectangle) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Manimaran-tech/My-Progress/tree/master/0136-single-number) |
 | [0260-single-number-iii](https://github.com/Manimaran-tech/My-Progress/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Manimaran-tech/My-Progress/tree/master/0268-missing-number) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Manimaran-tech/My-Progress/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Divide and Conquer
 |  |
 | ------- |
