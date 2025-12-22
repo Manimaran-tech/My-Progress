@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Manimaran-tech/My-Progress/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Manimaran-tech/My-Progress/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/Manimaran-tech/My-Progress/tree/master/0257-binary-tree-paths) |
+| [0290-word-pattern](https://github.com/Manimaran-tech/My-Progress/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/Manimaran-tech/My-Progress/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/Manimaran-tech/My-Progress/tree/master/0383-ransom-note) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Manimaran-tech/My-Progress/tree/master/0405-convert-a-number-to-hexadecimal) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Manimaran-tech/My-Progress/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Manimaran-tech/My-Progress/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Manimaran-tech/My-Progress/tree/master/0268-missing-number) |
+| [0290-word-pattern](https://github.com/Manimaran-tech/My-Progress/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Manimaran-tech/My-Progress/tree/master/0383-ransom-note) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Manimaran-tech/My-Progress/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0771-jewels-and-stones](https://github.com/Manimaran-tech/My-Progress/tree/master/0771-jewels-and-stones) |
