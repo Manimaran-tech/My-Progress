@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/Manimaran-tech/My-Progress/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Manimaran-tech/My-Progress/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Manimaran-tech/My-Progress/tree/master/0389-find-the-difference) |
+| [0401-binary-watch](https://github.com/Manimaran-tech/My-Progress/tree/master/0401-binary-watch) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Manimaran-tech/My-Progress/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Divide and Conquer
 |  |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/Manimaran-tech/My-Progress/tree/master/0257-binary-tree-paths) |
+| [0401-binary-watch](https://github.com/Manimaran-tech/My-Progress/tree/master/0401-binary-watch) |
 ## Queue
 |  |
 | ------- |
