@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Manimaran-tech/My-Progress/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Manimaran-tech/My-Progress/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Manimaran-tech/My-Progress/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/Manimaran-tech/My-Progress/tree/master/0392-is-subsequence) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Manimaran-tech/My-Progress/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/Manimaran-tech/My-Progress/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Manimaran-tech/My-Progress/tree/master/0415-add-strings) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Manimaran-tech/My-Progress/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/Manimaran-tech/My-Progress/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Manimaran-tech/My-Progress/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/Manimaran-tech/My-Progress/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/Manimaran-tech/My-Progress/tree/master/0455-assign-cookies) |
 | [0905-sort-array-by-parity](https://github.com/Manimaran-tech/My-Progress/tree/master/0905-sort-array-by-parity) |
 | [0942-di-string-match](https://github.com/Manimaran-tech/My-Progress/tree/master/0942-di-string-match) |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/Manimaran-tech/My-Progress/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Manimaran-tech/My-Progress/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/Manimaran-tech/My-Progress/tree/master/0392-is-subsequence) |
 ## Memoization
 |  |
 | ------- |
