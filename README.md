@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Manimaran-tech/My-Progress/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/Manimaran-tech/My-Progress/tree/master/0191-number-of-1-bits) |
 | [0260-single-number-iii](https://github.com/Manimaran-tech/My-Progress/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Manimaran-tech/My-Progress/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Manimaran-tech/My-Progress/tree/master/0389-find-the-difference) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Manimaran-tech/My-Progress/tree/master/0004-median-of-two-sorted-arrays) |
+| [0191-number-of-1-bits](https://github.com/Manimaran-tech/My-Progress/tree/master/0191-number-of-1-bits) |
 ## Stack
 |  |
 | ------- |
