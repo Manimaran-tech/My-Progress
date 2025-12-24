@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Manimaran-tech/My-Progress/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Manimaran-tech/My-Progress/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/Manimaran-tech/My-Progress/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Manimaran-tech/My-Progress/tree/master/0387-first-unique-character-in-a-string) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Manimaran-tech/My-Progress/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/Manimaran-tech/My-Progress/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Manimaran-tech/My-Progress/tree/master/0415-add-strings) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Manimaran-tech/My-Progress/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/Manimaran-tech/My-Progress/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Manimaran-tech/My-Progress/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Manimaran-tech/My-Progress/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Manimaran-tech/My-Progress/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0771-jewels-and-stones](https://github.com/Manimaran-tech/My-Progress/tree/master/0771-jewels-and-stones) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Manimaran-tech/My-Progress/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/Manimaran-tech/My-Progress/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Manimaran-tech/My-Progress/tree/master/0387-first-unique-character-in-a-string) |
 | [1370-increasing-decreasing-string](https://github.com/Manimaran-tech/My-Progress/tree/master/1370-increasing-decreasing-string) |
 ## Number Theory
 |  |
@@ -294,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Manimaran-tech/My-Progress/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Manimaran-tech/My-Progress/tree/master/0232-implement-queue-using-stacks) |
+| [0387-first-unique-character-in-a-string](https://github.com/Manimaran-tech/My-Progress/tree/master/0387-first-unique-character-in-a-string) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
