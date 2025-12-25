@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Manimaran-tech/My-Progress/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Manimaran-tech/My-Progress/tree/master/0485-max-consecutive-ones) |
 | [0495-teemo-attacking](https://github.com/Manimaran-tech/My-Progress/tree/master/0495-teemo-attacking) |
+| [0496-next-greater-element-i](https://github.com/Manimaran-tech/My-Progress/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/Manimaran-tech/My-Progress/tree/master/0682-baseball-game) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Manimaran-tech/My-Progress/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Manimaran-tech/My-Progress/tree/master/0792-binary-search) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Manimaran-tech/My-Progress/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Manimaran-tech/My-Progress/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Manimaran-tech/My-Progress/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/Manimaran-tech/My-Progress/tree/master/0496-next-greater-element-i) |
 | [0771-jewels-and-stones](https://github.com/Manimaran-tech/My-Progress/tree/master/0771-jewels-and-stones) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Manimaran-tech/My-Progress/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1370-increasing-decreasing-string](https://github.com/Manimaran-tech/My-Progress/tree/master/1370-increasing-decreasing-string) |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Manimaran-tech/My-Progress/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Manimaran-tech/My-Progress/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Manimaran-tech/My-Progress/tree/master/0232-implement-queue-using-stacks) |
+| [0496-next-greater-element-i](https://github.com/Manimaran-tech/My-Progress/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/Manimaran-tech/My-Progress/tree/master/0682-baseball-game) |
 | [1021-remove-outermost-parentheses](https://github.com/Manimaran-tech/My-Progress/tree/master/1021-remove-outermost-parentheses) |
 ## Design
@@ -339,4 +342,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Manimaran-tech/My-Progress/tree/master/0292-nim-game) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Manimaran-tech/My-Progress/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
