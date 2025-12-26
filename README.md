@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Manimaran-tech/My-Progress/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/Manimaran-tech/My-Progress/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Manimaran-tech/My-Progress/tree/master/0415-add-strings) |
+| [0434-number-of-segments-in-a-string](https://github.com/Manimaran-tech/My-Progress/tree/master/0434-number-of-segments-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/Manimaran-tech/My-Progress/tree/master/0459-repeated-substring-pattern) |
 | [0500-keyboard-row](https://github.com/Manimaran-tech/My-Progress/tree/master/0500-keyboard-row) |
 | [0504-base-7](https://github.com/Manimaran-tech/My-Progress/tree/master/0504-base-7) |
