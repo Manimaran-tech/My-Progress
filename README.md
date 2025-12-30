@@ -270,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Manimaran-tech/My-Progress/tree/master/0145-binary-tree-postorder-traversal) |
 | [0257-binary-tree-paths](https://github.com/Manimaran-tech/My-Progress/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/Manimaran-tech/My-Progress/tree/master/0404-sum-of-left-leaves) |
+| [0543-diameter-of-binary-tree](https://github.com/Manimaran-tech/My-Progress/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/Manimaran-tech/My-Progress/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/Manimaran-tech/My-Progress/tree/master/0404-sum-of-left-leaves) |
 | [0463-island-perimeter](https://github.com/Manimaran-tech/My-Progress/tree/master/0463-island-perimeter) |
+| [0543-diameter-of-binary-tree](https://github.com/Manimaran-tech/My-Progress/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Manimaran-tech/My-Progress/tree/master/0145-binary-tree-postorder-traversal) |
 | [0257-binary-tree-paths](https://github.com/Manimaran-tech/My-Progress/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/Manimaran-tech/My-Progress/tree/master/0404-sum-of-left-leaves) |
+| [0543-diameter-of-binary-tree](https://github.com/Manimaran-tech/My-Progress/tree/master/0543-diameter-of-binary-tree) |
 ## Database
 |  |
 | ------- |
