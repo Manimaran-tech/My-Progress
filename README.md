@@ -274,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/Manimaran-tech/My-Progress/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/Manimaran-tech/My-Progress/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/Manimaran-tech/My-Progress/tree/master/0543-diameter-of-binary-tree) |
+| [0559-maximum-depth-of-n-ary-tree](https://github.com/Manimaran-tech/My-Progress/tree/master/0559-maximum-depth-of-n-ary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/Manimaran-tech/My-Progress/tree/master/0404-sum-of-left-leaves) |
 | [0463-island-perimeter](https://github.com/Manimaran-tech/My-Progress/tree/master/0463-island-perimeter) |
 | [0543-diameter-of-binary-tree](https://github.com/Manimaran-tech/My-Progress/tree/master/0543-diameter-of-binary-tree) |
+| [0559-maximum-depth-of-n-ary-tree](https://github.com/Manimaran-tech/My-Progress/tree/master/0559-maximum-depth-of-n-ary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Manimaran-tech/My-Progress/tree/master/0112-path-sum) |
 | [0404-sum-of-left-leaves](https://github.com/Manimaran-tech/My-Progress/tree/master/0404-sum-of-left-leaves) |
 | [0463-island-perimeter](https://github.com/Manimaran-tech/My-Progress/tree/master/0463-island-perimeter) |
+| [0559-maximum-depth-of-n-ary-tree](https://github.com/Manimaran-tech/My-Progress/tree/master/0559-maximum-depth-of-n-ary-tree) |
 ## Binary Tree
 |  |
 | ------- |
