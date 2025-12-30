@@ -15,10 +15,10 @@ class Solution:
             left = height(node.left)
             right = height(node.right)
             
-            # update diameter
+            
             self.diameter = max(self.diameter, left + right)
             
-            # return height
+            
             return 1 + max(left, right)
         
         height(root)
