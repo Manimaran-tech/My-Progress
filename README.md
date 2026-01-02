@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/Manimaran-tech/My-Progress/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0905-sort-array-by-parity](https://github.com/Manimaran-tech/My-Progress/tree/master/0905-sort-array-by-parity) |
 | [0917-reverse-only-letters](https://github.com/Manimaran-tech/My-Progress/tree/master/0917-reverse-only-letters) |
+| [0922-sort-array-by-parity-ii](https://github.com/Manimaran-tech/My-Progress/tree/master/0922-sort-array-by-parity-ii) |
 | [0942-di-string-match](https://github.com/Manimaran-tech/My-Progress/tree/master/0942-di-string-match) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Manimaran-tech/My-Progress/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1768-merge-strings-alternately](https://github.com/Manimaran-tech/My-Progress/tree/master/1768-merge-strings-alternately) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/Manimaran-tech/My-Progress/tree/master/0860-lemonade-change) |
 | [0905-sort-array-by-parity](https://github.com/Manimaran-tech/My-Progress/tree/master/0905-sort-array-by-parity) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Manimaran-tech/My-Progress/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [0922-sort-array-by-parity-ii](https://github.com/Manimaran-tech/My-Progress/tree/master/0922-sort-array-by-parity-ii) |
 | [0942-di-string-match](https://github.com/Manimaran-tech/My-Progress/tree/master/0942-di-string-match) |
 | [1051-height-checker](https://github.com/Manimaran-tech/My-Progress/tree/master/1051-height-checker) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Manimaran-tech/My-Progress/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/Manimaran-tech/My-Progress/tree/master/0506-relative-ranks) |
 | [0594-longest-harmonious-subsequence](https://github.com/Manimaran-tech/My-Progress/tree/master/0594-longest-harmonious-subsequence) |
 | [0905-sort-array-by-parity](https://github.com/Manimaran-tech/My-Progress/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/Manimaran-tech/My-Progress/tree/master/0922-sort-array-by-parity-ii) |
 | [1051-height-checker](https://github.com/Manimaran-tech/My-Progress/tree/master/1051-height-checker) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Manimaran-tech/My-Progress/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Manimaran-tech/My-Progress/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
