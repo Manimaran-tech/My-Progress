@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0492-construct-the-rectangle](https://github.com/Manimaran-tech/My-Progress/tree/master/0492-construct-the-rectangle) |
 | [0504-base-7](https://github.com/Manimaran-tech/My-Progress/tree/master/0504-base-7) |
 | [0812-largest-triangle-area](https://github.com/Manimaran-tech/My-Progress/tree/master/0812-largest-triangle-area) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Manimaran-tech/My-Progress/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Manimaran-tech/My-Progress/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1323-maximum-69-number](https://github.com/Manimaran-tech/My-Progress/tree/master/1323-maximum-69-number) |
 | [3536-maximum-product-of-two-digits](https://github.com/Manimaran-tech/My-Progress/tree/master/3536-maximum-product-of-two-digits) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-largest-triangle-area](https://github.com/Manimaran-tech/My-Progress/tree/master/0812-largest-triangle-area) |
 | [0860-lemonade-change](https://github.com/Manimaran-tech/My-Progress/tree/master/0860-lemonade-change) |
 | [0905-sort-array-by-parity](https://github.com/Manimaran-tech/My-Progress/tree/master/0905-sort-array-by-parity) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Manimaran-tech/My-Progress/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0942-di-string-match](https://github.com/Manimaran-tech/My-Progress/tree/master/0942-di-string-match) |
 | [1051-height-checker](https://github.com/Manimaran-tech/My-Progress/tree/master/1051-height-checker) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Manimaran-tech/My-Progress/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/Manimaran-tech/My-Progress/tree/master/0500-keyboard-row) |
 | [0594-longest-harmonious-subsequence](https://github.com/Manimaran-tech/My-Progress/tree/master/0594-longest-harmonious-subsequence) |
 | [0771-jewels-and-stones](https://github.com/Manimaran-tech/My-Progress/tree/master/0771-jewels-and-stones) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Manimaran-tech/My-Progress/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Manimaran-tech/My-Progress/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1370-increasing-decreasing-string](https://github.com/Manimaran-tech/My-Progress/tree/master/1370-increasing-decreasing-string) |
 ## Sorting
@@ -340,11 +343,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Manimaran-tech/My-Progress/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Manimaran-tech/My-Progress/tree/master/0387-first-unique-character-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/Manimaran-tech/My-Progress/tree/master/0594-longest-harmonious-subsequence) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Manimaran-tech/My-Progress/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1370-increasing-decreasing-string](https://github.com/Manimaran-tech/My-Progress/tree/master/1370-increasing-decreasing-string) |
 ## Number Theory
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Manimaran-tech/My-Progress/tree/master/0258-add-digits) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Manimaran-tech/My-Progress/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/Manimaran-tech/My-Progress/tree/master/3995-gcd-of-odd-and-even-sums) |
 ## Backtracking
 |  |
