@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-find-common-characters](https://github.com/Manimaran-tech/My-Progress/tree/master/1002-find-common-characters) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Manimaran-tech/My-Progress/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Manimaran-tech/My-Progress/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/Manimaran-tech/My-Progress/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1051-height-checker](https://github.com/Manimaran-tech/My-Progress/tree/master/1051-height-checker) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Manimaran-tech/My-Progress/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Manimaran-tech/My-Progress/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Manimaran-tech/My-Progress/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0461-hamming-distance](https://github.com/Manimaran-tech/My-Progress/tree/master/0461-hamming-distance) |
 | [1009-complement-of-base-10-integer](https://github.com/Manimaran-tech/My-Progress/tree/master/1009-complement-of-base-10-integer) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/Manimaran-tech/My-Progress/tree/master/1018-binary-prefix-divisible-by-5) |
 ## Divide and Conquer
 |  |
 | ------- |
