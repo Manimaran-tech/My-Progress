@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0925-long-pressed-name](https://github.com/Manimaran-tech/My-Progress/tree/master/0925-long-pressed-name) |
 | [0929-unique-email-addresses](https://github.com/Manimaran-tech/My-Progress/tree/master/0929-unique-email-addresses) |
 | [0942-di-string-match](https://github.com/Manimaran-tech/My-Progress/tree/master/0942-di-string-match) |
+| [1002-find-common-characters](https://github.com/Manimaran-tech/My-Progress/tree/master/1002-find-common-characters) |
 | [1021-remove-outermost-parentheses](https://github.com/Manimaran-tech/My-Progress/tree/master/1021-remove-outermost-parentheses) |
 | [1370-increasing-decreasing-string](https://github.com/Manimaran-tech/My-Progress/tree/master/1370-increasing-decreasing-string) |
 | [1576-replace-all-s-to-avoid-consecutive-repeating-characters](https://github.com/Manimaran-tech/My-Progress/tree/master/1576-replace-all-s-to-avoid-consecutive-repeating-characters) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/Manimaran-tech/My-Progress/tree/master/0922-sort-array-by-parity-ii) |
 | [0929-unique-email-addresses](https://github.com/Manimaran-tech/My-Progress/tree/master/0929-unique-email-addresses) |
 | [0942-di-string-match](https://github.com/Manimaran-tech/My-Progress/tree/master/0942-di-string-match) |
+| [1002-find-common-characters](https://github.com/Manimaran-tech/My-Progress/tree/master/1002-find-common-characters) |
 | [1051-height-checker](https://github.com/Manimaran-tech/My-Progress/tree/master/1051-height-checker) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Manimaran-tech/My-Progress/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Manimaran-tech/My-Progress/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/Manimaran-tech/My-Progress/tree/master/0771-jewels-and-stones) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Manimaran-tech/My-Progress/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0929-unique-email-addresses](https://github.com/Manimaran-tech/My-Progress/tree/master/0929-unique-email-addresses) |
+| [1002-find-common-characters](https://github.com/Manimaran-tech/My-Progress/tree/master/1002-find-common-characters) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Manimaran-tech/My-Progress/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1370-increasing-decreasing-string](https://github.com/Manimaran-tech/My-Progress/tree/master/1370-increasing-decreasing-string) |
 ## Sorting
