@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/Manimaran-tech/My-Progress/tree/master/0441-arranging-coins) |
 | [0492-construct-the-rectangle](https://github.com/Manimaran-tech/My-Progress/tree/master/0492-construct-the-rectangle) |
 | [0504-base-7](https://github.com/Manimaran-tech/My-Progress/tree/master/0504-base-7) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Manimaran-tech/My-Progress/tree/master/0628-maximum-product-of-three-numbers) |
 | [0812-largest-triangle-area](https://github.com/Manimaran-tech/My-Progress/tree/master/0812-largest-triangle-area) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Manimaran-tech/My-Progress/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Manimaran-tech/My-Progress/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/Manimaran-tech/My-Progress/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/Manimaran-tech/My-Progress/tree/master/0506-relative-ranks) |
 | [0594-longest-harmonious-subsequence](https://github.com/Manimaran-tech/My-Progress/tree/master/0594-longest-harmonious-subsequence) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Manimaran-tech/My-Progress/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/Manimaran-tech/My-Progress/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/Manimaran-tech/My-Progress/tree/master/0724-find-pivot-index) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Manimaran-tech/My-Progress/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Manimaran-tech/My-Progress/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/Manimaran-tech/My-Progress/tree/master/0506-relative-ranks) |
 | [0594-longest-harmonious-subsequence](https://github.com/Manimaran-tech/My-Progress/tree/master/0594-longest-harmonious-subsequence) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Manimaran-tech/My-Progress/tree/master/0628-maximum-product-of-three-numbers) |
 | [0905-sort-array-by-parity](https://github.com/Manimaran-tech/My-Progress/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Manimaran-tech/My-Progress/tree/master/0922-sort-array-by-parity-ii) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Manimaran-tech/My-Progress/tree/master/1005-maximize-sum-of-array-after-k-negations) |
