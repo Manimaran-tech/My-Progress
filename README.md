@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/Manimaran-tech/My-Progress/tree/master/0506-relative-ranks) |
 | [0594-longest-harmonious-subsequence](https://github.com/Manimaran-tech/My-Progress/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Manimaran-tech/My-Progress/tree/master/0628-maximum-product-of-three-numbers) |
+| [0643-maximum-average-subarray-i](https://github.com/Manimaran-tech/My-Progress/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/Manimaran-tech/My-Progress/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/Manimaran-tech/My-Progress/tree/master/0724-find-pivot-index) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Manimaran-tech/My-Progress/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -433,4 +434,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/Manimaran-tech/My-Progress/tree/master/0594-longest-harmonious-subsequence) |
+| [0643-maximum-average-subarray-i](https://github.com/Manimaran-tech/My-Progress/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
