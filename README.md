@@ -307,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/Manimaran-tech/My-Progress/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Manimaran-tech/My-Progress/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Manimaran-tech/My-Progress/tree/master/0590-n-ary-tree-postorder-traversal) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Manimaran-tech/My-Progress/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -321,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/Manimaran-tech/My-Progress/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Manimaran-tech/My-Progress/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Manimaran-tech/My-Progress/tree/master/0590-n-ary-tree-postorder-traversal) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Manimaran-tech/My-Progress/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -329,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/Manimaran-tech/My-Progress/tree/master/0404-sum-of-left-leaves) |
 | [0463-island-perimeter](https://github.com/Manimaran-tech/My-Progress/tree/master/0463-island-perimeter) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/Manimaran-tech/My-Progress/tree/master/0559-maximum-depth-of-n-ary-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Manimaran-tech/My-Progress/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -339,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/Manimaran-tech/My-Progress/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/Manimaran-tech/My-Progress/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/Manimaran-tech/My-Progress/tree/master/0543-diameter-of-binary-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Manimaran-tech/My-Progress/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Database
 |  |
 | ------- |
