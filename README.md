@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Manimaran-tech/My-Progress/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/Manimaran-tech/My-Progress/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/Manimaran-tech/My-Progress/tree/master/0682-baseball-game) |
+| [0705-design-hashset](https://github.com/Manimaran-tech/My-Progress/tree/master/0705-design-hashset) |
 | [0724-find-pivot-index](https://github.com/Manimaran-tech/My-Progress/tree/master/0724-find-pivot-index) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Manimaran-tech/My-Progress/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Manimaran-tech/My-Progress/tree/master/0792-binary-search) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/Manimaran-tech/My-Progress/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/Manimaran-tech/My-Progress/tree/master/0645-set-mismatch) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Manimaran-tech/My-Progress/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0705-design-hashset](https://github.com/Manimaran-tech/My-Progress/tree/master/0705-design-hashset) |
 | [0771-jewels-and-stones](https://github.com/Manimaran-tech/My-Progress/tree/master/0771-jewels-and-stones) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Manimaran-tech/My-Progress/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0929-unique-email-addresses](https://github.com/Manimaran-tech/My-Progress/tree/master/0929-unique-email-addresses) |
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Manimaran-tech/My-Progress/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Manimaran-tech/My-Progress/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Manimaran-tech/My-Progress/tree/master/0232-implement-queue-using-stacks) |
+| [0705-design-hashset](https://github.com/Manimaran-tech/My-Progress/tree/master/0705-design-hashset) |
 ## Matrix
 |  |
 | ------- |
@@ -302,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Manimaran-tech/My-Progress/tree/master/0141-linked-list-cycle) |
 | [0147-insertion-sort-list](https://github.com/Manimaran-tech/My-Progress/tree/master/0147-insertion-sort-list) |
 | [0206-reverse-linked-list](https://github.com/Manimaran-tech/My-Progress/tree/master/0206-reverse-linked-list) |
+| [0705-design-hashset](https://github.com/Manimaran-tech/My-Progress/tree/master/0705-design-hashset) |
 ## Trie
 |  |
 | ------- |
@@ -455,4 +459,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Manimaran-tech/My-Progress/tree/master/0653-two-sum-iv-input-is-a-bst) |
+## Hash Function
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/Manimaran-tech/My-Progress/tree/master/0705-design-hashset) |
 <!---LeetCode Topics End-->
