@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Manimaran-tech/My-Progress/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Manimaran-tech/My-Progress/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Manimaran-tech/My-Progress/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/Manimaran-tech/My-Progress/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Manimaran-tech/My-Progress/tree/master/0217-contains-duplicate) |
 | [0260-single-number-iii](https://github.com/Manimaran-tech/My-Progress/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Manimaran-tech/My-Progress/tree/master/0268-missing-number) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Manimaran-tech/My-Progress/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Manimaran-tech/My-Progress/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/Manimaran-tech/My-Progress/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/Manimaran-tech/My-Progress/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Manimaran-tech/My-Progress/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Manimaran-tech/My-Progress/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Manimaran-tech/My-Progress/tree/master/0242-valid-anagram) |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Manimaran-tech/My-Progress/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Manimaran-tech/My-Progress/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/Manimaran-tech/My-Progress/tree/master/0147-insertion-sort-list) |
+| [0169-majority-element](https://github.com/Manimaran-tech/My-Progress/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Manimaran-tech/My-Progress/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Manimaran-tech/My-Progress/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Manimaran-tech/My-Progress/tree/master/0268-missing-number) |
@@ -258,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Manimaran-tech/My-Progress/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/Manimaran-tech/My-Progress/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/Manimaran-tech/My-Progress/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Manimaran-tech/My-Progress/tree/master/0191-number-of-1-bits) |
 ## Stack
@@ -394,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Manimaran-tech/My-Progress/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/Manimaran-tech/My-Progress/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Manimaran-tech/My-Progress/tree/master/0387-first-unique-character-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/Manimaran-tech/My-Progress/tree/master/0594-longest-harmonious-subsequence) |
@@ -469,4 +474,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0705-design-hashset](https://github.com/Manimaran-tech/My-Progress/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Manimaran-tech/My-Progress/tree/master/0706-design-hashmap) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Manimaran-tech/My-Progress/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
