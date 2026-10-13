@@ -1,6 +1,20 @@
-# My-Progress
-A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
+# Algorithmic Problem Solving & Data Structures Archive
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Language: Python](https://img.shields.io/badge/Language-Python%203-3776AB.svg?logo=python&logoColor=white)](https://www.python.org/)
+[![Platform: LeetCode](https://img.shields.io/badge/Platform-LeetCode-FFA116.svg?logo=leetcode&logoColor=black)](https://leetcode.com/u/Manimaran-tech/)
+[![Sync: LeetHub](https://img.shields.io/badge/Automated%20Sync-LeetHub%20v2-blue.svg)](https://github.com/arunbhardwaj/LeetHub-2.0)
+
+> **Curated archive of competitive programming solutions, algorithmic patterns, and data structure implementations solved across LeetCode.**
+
+| Category | Specification |
+| :--- | :--- |
+| **Profile** | [leetcode.com/u/Manimaran-tech](https://leetcode.com/u/Manimaran-tech/) |
+| **Core Domains** | Dynamic Programming, Graph Theory, Trees, Greedy Heuristics, Two Pointers |
+| **Primary Language** | Python 3.x |
+| **Automated Ingestion** | LeetHub v2 Extension |
+
+---
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## String
@@ -484,3 +498,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Manimaran-tech/My-Progress/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
+
+
+---
+
+## License
+
+This repository is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
