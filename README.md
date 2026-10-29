@@ -106,6 +106,7 @@
 | [0263-ugly-number](https://github.com/Manimaran-tech/My-Progress/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Manimaran-tech/My-Progress/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/Manimaran-tech/My-Progress/tree/master/0292-nim-game) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Manimaran-tech/My-Progress/tree/master/0380-insert-delete-getrandom-o1) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Manimaran-tech/My-Progress/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/Manimaran-tech/My-Progress/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Manimaran-tech/My-Progress/tree/master/0415-add-strings) |
@@ -166,6 +167,7 @@
 | [0238-product-of-array-except-self](https://github.com/Manimaran-tech/My-Progress/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/Manimaran-tech/My-Progress/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Manimaran-tech/My-Progress/tree/master/0268-missing-number) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Manimaran-tech/My-Progress/tree/master/0380-insert-delete-getrandom-o1) |
 | [0414-third-maximum-number](https://github.com/Manimaran-tech/My-Progress/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Manimaran-tech/My-Progress/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/Manimaran-tech/My-Progress/tree/master/0455-assign-cookies) |
@@ -215,6 +217,7 @@
 | [0242-valid-anagram](https://github.com/Manimaran-tech/My-Progress/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Manimaran-tech/My-Progress/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/Manimaran-tech/My-Progress/tree/master/0290-word-pattern) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Manimaran-tech/My-Progress/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/Manimaran-tech/My-Progress/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Manimaran-tech/My-Progress/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Manimaran-tech/My-Progress/tree/master/0389-find-the-difference) |
@@ -302,6 +305,7 @@
 | [0155-min-stack](https://github.com/Manimaran-tech/My-Progress/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Manimaran-tech/My-Progress/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Manimaran-tech/My-Progress/tree/master/0232-implement-queue-using-stacks) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Manimaran-tech/My-Progress/tree/master/0380-insert-delete-getrandom-o1) |
 | [0705-design-hashset](https://github.com/Manimaran-tech/My-Progress/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Manimaran-tech/My-Progress/tree/master/0706-design-hashmap) |
 ## Matrix
@@ -497,6 +501,10 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Manimaran-tech/My-Progress/tree/master/0169-majority-element) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/Manimaran-tech/My-Progress/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
 
 
