@@ -1,8 +1,8 @@
 class Solution:
     def spiralOrder(self, mat: list[list[int]]) -> list[int]:
-        n , m = len(mat) , len(mat[0])
-        left,right = 0, m-1
-        top,bottom = 0, n-1
+        m , n = len(mat) , len(mat[0])
+        left,right = 0, n-1
+        top,bottom = 0, m-1
         dir = 0
         res = []
         while top <= bottom and left <= right:
