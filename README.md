@@ -96,6 +96,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Manimaran-tech/My-Progress/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/Manimaran-tech/My-Progress/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Manimaran-tech/My-Progress/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Manimaran-tech/My-Progress/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Manimaran-tech/My-Progress/tree/master/0069-sqrtx) |
@@ -152,6 +153,7 @@
 | [0014-longest-common-prefix](https://github.com/Manimaran-tech/My-Progress/tree/master/0014-longest-common-prefix) |
 | [0035-search-insert-position](https://github.com/Manimaran-tech/My-Progress/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/Manimaran-tech/My-Progress/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/Manimaran-tech/My-Progress/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Manimaran-tech/My-Progress/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/Manimaran-tech/My-Progress/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Manimaran-tech/My-Progress/tree/master/0074-search-a-2d-matrix) |
@@ -314,6 +316,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Manimaran-tech/My-Progress/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/Manimaran-tech/My-Progress/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/Manimaran-tech/My-Progress/tree/master/0074-search-a-2d-matrix) |
 | [0463-island-perimeter](https://github.com/Manimaran-tech/My-Progress/tree/master/0463-island-perimeter) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Manimaran-tech/My-Progress/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
